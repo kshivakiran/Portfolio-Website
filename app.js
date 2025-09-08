@@ -120,7 +120,7 @@ function initTypingAnimation() {
         'Java Full Stack Developer',
         'SR University Graduate',
         'Spring Boot Specialist', 
-        'React  Developer',
+        'React Developer',
         'Software Engineer',
         'Java  Expert'
     ];
