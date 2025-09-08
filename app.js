@@ -118,11 +118,11 @@ function initTypingAnimation() {
     
     const roles = [
         'Java Full Stack Developer',
-        'Inspaner Academy Graduate',
-        'Spring Boot 3.2 Specialist', 
-        'React 18 Developer',
+        'SR University Graduate',
+        'Spring Boot Specialist', 
+        'React  Developer',
         'Software Engineer',
-        'Java 17 Expert'
+        'Java  Expert'
     ];
     
     let roleIndex = 0;
